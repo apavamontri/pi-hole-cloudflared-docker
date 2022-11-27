@@ -52,7 +52,7 @@ sudo ./stop-pihole.sh
 
 # Pi-hole Web Admin
 
-Once the Pi-hole docker started, you can access Pi-hole's web admin UI at [http://localhost:8061/admin]
+Once the Pi-hole docker started, you can access Pi-hole's web admin UI at [http://localhost:8061/admin](http://localhost:8061/admin).
 
 ![pi-hole-web-admin-homepage](./doc/images/pi-hole-web-admin-home.png)
 
