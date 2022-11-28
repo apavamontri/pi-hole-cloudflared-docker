@@ -21,6 +21,7 @@ services:
 
   pihole:
     container_name: pihole
+    hostname: pi-hole-docker
     image: pihole/pihole:latest
     # For DHCP it is recommended to remove these ports and instead add: network_mode: "host"
     ports:
